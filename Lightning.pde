@@ -15,7 +15,7 @@ fill(0, 0, 0, 15);
 rect(0, 0, 500, 500);
 noStroke();
 fill(255);
-circle(20, 150, 250);
+ellipse(20, 150, 250, 250);
 fill(10);
 ellipse(100, 160, 90, 80);
 stroke((int)(Math.random()*250),(int)(Math.random()*250),(int)(Math.random()*250));
