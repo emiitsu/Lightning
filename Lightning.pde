@@ -14,7 +14,6 @@ void draw()
 {
 fill(0, 0, 0, 15);
 rect(0, 0, 500, 500);
-  noStroke();
   fill(255);
   circle(20, 150, 250);
   fill(10);
